@@ -174,9 +174,22 @@ print("Периметр: ", P_rectangle)   #30
 ```
 ## <span style="color:chocolate">История изменения проекта</span>
 
-| Хэш коммита        | Автор      | Дата                                                                | Комментарий                            |
-|--------------------|------------|---------------------------------------------------------------------|----------------------------------------|
-|889e7e1ac118f3372400db451b65ef14615559a2|Ermolaeva Daria <darerm1@yandex.ru>|Wed Oct 11 10:37:28 2023 +0300|docs: add documentation to triangle.py|
-|4aaf113bcb2077c446139b0ce6b5f1efb1ff6cda|Ermolaeva Daria <darerm1@yandex.ru>|Wed Oct 11 10:36:29 2023 +0300|docs: add documentation to square.py|
-|1dbe2ee6060d925624336c44a05f9d09ab397ce0|Ermolaeva Daria <darerm1@yandex.ru>|Wed Oct 11 10:35:32 2023 +0300|docs: add documentation to rectangle.py|
-|f74016124b257cf67acdd084111f55776b7061ed|Ermolaeva Daria <darerm1@yandex.ru>|Wed Oct 11 10:29:09 2023 +0300|docs: add documentation to circle.py|
+| Хэш коммита        | Автор      | Дата                           | Комментарий                           |
+|--------------------|------------|--------------------------------|---------------------------------------|
+|889e7e1ac118f3372400db451b65ef14615559a2|Ermolaeva Daria <darerm1@yandex.ru>| Wed Oct 11 10:37:28 2023 +0300 |docs: add documentation to triangle.py|
+|4aaf113bcb2077c446139b0ce6b5f1efb1ff6cda|Ermolaeva Daria <darerm1@yandex.ru>| Wed Oct 11 10:36:29 2023 +0300 |docs: add documentation to square.py|
+|1dbe2ee6060d925624336c44a05f9d09ab397ce0|Ermolaeva Daria <darerm1@yandex.ru>| Wed Oct 11 10:35:32 2023 +0300 |docs: add documentation to rectangle.py|
+|f74016124b257cf67acdd084111f55776b7061ed|Ermolaeva Daria <darerm1@yandex.ru>| Wed Oct 11 10:29:09 2023 +0300 |docs: add documentation to circle.py|
+|4832283372befc95a5ab3982682273c96ed27b3b|Ermolaeva Daria <darerm1@yandex.ru>| Thu Nov 23 03:30:41 2023 +0300 |add unittests to rectangle.py|
+|6777ead91751f256287a60cc983549af6f69cda8|Ermolaeva Daria <darerm1@yandex.ru>| Thu Nov 23 03:41:42 2023 +0300 |test: add unitests to circle.py|
+|a3c38602222d9b9f1ba2260cfe495c1898f62456|Ermolaeva Daria <darerm1@yandex.ru>| Thu Nov 23 03:49:27 2023 +0300 |test: add unittests to square.py|
+|3826d15feb46f79880647aa19bc82108d3d5a892|Ermolaeva Daria <darerm1@yandex.ru>| Thu Nov 23 03:53:49 2023 +0300 |test: add unittests to triangle.py|
+|1dbe2ee6060d925624336c44a05f9d09ab397ce0|Ermolaeva Daria <darerm1@yandex.ru>| Thu Nov 23 14:33:49 2023 +0300 |docs: add documentation to rectangle.py|
+
+## <span style="color:chocolate">Тесты</span>
+| Файл         | Число пройденных тестов | Насколько успешно |
+|--------------|-------------------------|-------------------|
+| rectangle.py | 4                       | 67%               |
+| circle.py    | 0                       | 0%                |
+| square.py    | 4                       | 67%               |
+| triangle.py  | 4                       | 67%               |
